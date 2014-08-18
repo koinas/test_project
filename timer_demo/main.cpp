@@ -38,4 +38,5 @@ VOID CALLBACK TimerProc(
 )
 {
 	std::cout<<"TIMER\n";
+	std::cout<<"UPDATED\n";
 }
